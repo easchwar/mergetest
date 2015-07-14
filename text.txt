@@ -1,0 +1,10 @@
+This is the base paragraph. This entire thing
+was made in the original commit. Its history
+is shared by topic and master. This is the
+branching point from which master and topic
+diverge.
+
+
+Another paragraph. Don't exactly know what I plan
+to do with it. maybe I'll delete it in master after
+branching topic.
